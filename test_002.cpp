@@ -1,5 +1,5 @@
 #include <iostream>
 
-main(){
+int main(){
 	std::cout << "cat" << std::endl;
 }
